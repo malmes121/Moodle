@@ -211,4 +211,4 @@ Moodle is offered as a complete free version with all features and updates inclu
 Unlock the future of education today! Download Moodle now and start creating impactful learning experiences for your students.
 
 ---
-**Last updated:** 2026-09-28 07:55:00 UTC
+**Last updated:** 2026-09-28 16:13:58 UTC
